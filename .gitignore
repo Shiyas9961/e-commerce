@@ -1,0 +1,6 @@
+.env
+/node_modules
+why
+# .env/
+# node_modules/
+#hello
